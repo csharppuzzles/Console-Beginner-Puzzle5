@@ -83,7 +83,7 @@ static void ExampleB()
     Console.WriteLine("\nExample B");
     Console.WriteLine("~~~~~~~~~");
 
-    // Unicode colors
+    // Unicode / ANSI colors
     string red = "\u001B[31m";
     string blue = "\u001B[34m";
     string green = "\u001B[32m";
