@@ -1,4 +1,4 @@
-# C# Console Beginners Premium Puzzle 5
+# C# Console Beginners Puzzle 5
 
 ## Switches
 
@@ -6,23 +6,23 @@
 
 
 ## Puzzles
-In main.py, I have commented out some starting code for these puzzles. <br />
+In Program.cs, I have commented out some starting code for these puzzles. <br />
 Write your code in these sections and uncomment them. <br />
 I have provided some examples of similar functions to what each puzzle is asking for. Learn to read the code and modify it. <br />
 
 At the very bottom, I have listed the functions. Comment and uncomment them, to run them one at a time.
 
 ```
-# Run the puzzles
+// Run the puzzles
 
-    example_a()
-    # puzzle_a()
+    exampleA()
+    // puzzleA()
 
-    example_b()
-    # puzzle_b()
+    exampleB()
+    // puzzleB()
 
-    example_c()
-    # puzzle_c()
+    exampleC()
+    // puzzleC()
 ```
 
 ### A - Workout of the day
