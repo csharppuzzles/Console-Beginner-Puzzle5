@@ -13,16 +13,16 @@ I have provided some examples of similar functions to what each puzzle is asking
 At the very bottom, I have listed the functions. Comment and uncomment them, to run them one at a time.
 
 ```
-# Run the puzzles
+// Run the puzzles
 
     exampleA()
-    # puzzleA()
+    // puzzleA()
 
     exampleB()
-    # puzzleB()
+    // puzzleB()
 
     exampleC()
-    # puzzleC()
+    // puzzleC()
 ```
 
 ### A - Workout of the day
